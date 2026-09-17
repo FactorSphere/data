@@ -1,2 +1,2 @@
 # Data
-The Open Source Data behind [FactorSphere](https://lander.factorsphere.org/)
+The Open Source Data behind [FactorSphere](https://lander.factorsphere.smann.cc/)
